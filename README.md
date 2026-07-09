@@ -25,27 +25,8 @@
 
 安装后打开 [成绩查询页面](https://byyt.ustb.edu.cn/cjgl/grcjcx/grcjcx)，等待约 1 秒即可看到排名。
 
-## 调试
-
-打开浏览器控制台（F12），可调用以下命令：
-
-```javascript
-// 查看捕获的课程数据
-__USTB__.dump()
-
-// 查看原始数据
-__USTB__.courses
-
-// 手动注入排名
-__USTB__.inject()
-
-// 手动导出 Excel
-__USTB__.exportExcel()
-
-// 查看加权平均分
-__USTB__.calcAvg()
-```
-
 ## License
 
 MIT
+
+本项目仅用于个人学习交流，禁止大规模批量爬取、恶意访问教务系统，一切违规使用行为由使用者自行承担全部责任。

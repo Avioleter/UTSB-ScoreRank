@@ -3,7 +3,7 @@
 // @namespace    https://github.com/ustb-grade-enhancer
 // @version      2.4.0
 // @description  成绩备注列自动显示排名，支持导出 Excel，显示加权平均分
-// @author       USTB Student
+// @author       Avioleter
 // @match        https://byyt.ustb.edu.cn/cjgl/*
 // @grant        GM_download
 // @require      https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js
